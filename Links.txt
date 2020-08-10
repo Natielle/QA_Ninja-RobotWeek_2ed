@@ -1,0 +1,3 @@
+
+Link da aplicação web que será automatizada:
+- http://ninjachef-qaninja-io.umbler.net/
